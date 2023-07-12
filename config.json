@@ -1,0 +1,10 @@
+{
+    "defaultValue":{
+        "binance":{
+            "productName":"GasFee",
+            "productDetail":"The gas fee of tansactions ",
+            "productType":"gas",
+            "currency":"USDT"
+        }
+    }
+}
